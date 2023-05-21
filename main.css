@@ -1,9 +1,6 @@
 .foo {
-    color: blue;
+    color: red;
     margin: 0 auto;
     padding: 10px;
     z-index: 20;
-
-
-    
-}
+    color: blue;}
